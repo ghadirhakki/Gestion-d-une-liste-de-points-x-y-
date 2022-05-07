@@ -7,12 +7,12 @@ Après chaque action, nous proposons encore la possibilité de traitement de la 
 
 Ainsi, nous proposons la liste de choix à l’utilisateur comme suit :  
 
-1 : Ajouter des points a la liste 
-2 : Modifier un point de la liste
-3 : Supprimer un point de la liste
-4 : Visualiser un point precis de la liste
-5 : Afficher la liste entiere 
-6 : Exit 
+1.  Ajouter des points a la liste 
+2.  Modifier un point de la liste
+3.  Supprimer un point de la liste
+4.  Visualiser un point precis de la liste
+5.  Afficher la liste entiere 
+6.  Exit 
 
 Enfin, notre programme peur être représentée en trois parties :  
 
